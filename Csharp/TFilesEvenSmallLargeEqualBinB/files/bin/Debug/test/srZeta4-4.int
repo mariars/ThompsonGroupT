@@ -1,0 +1,4 @@
+0
+intersection= 0				 for files srEN2-4.dts srEI2-4.dts
+intersect::Freq1 = 2, lines = 2, longest line length= 7 in file: srEN2-4.dts
+intersect::Freq2 = 7, lines = 7, longest line length= 7 in file: srEI2-4.dts

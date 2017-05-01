@@ -1,0 +1,28 @@
+Instructions for computing the zeta_n numbers using doubleTrees of Thompson group T.
+
+
+1. Execute command  TFilesEvenSLEbin.exe 10 standardbatches
+This commands produces 10 batch files n0.bat n1.bat ... n10.bat
+
+2. Execute command n0.bat
+This command produces erEI0-0.dts erEN0-0.dts
+
+3. Execute command n1.bat
+This command produces srEN1-0.dts srEI1-0.dts erEN1-0.dts erEI1-0.dts
+
+4. Execute command n2.bat
+This command produces  srEN2-x.doubletree srEI2-x.doubletree  erEN2-x.doubletree erEI2-x.doubletree where x=0..7.
+It also creates the bash file n2.sh, and the batch files N2.stats, intersect2.bat, sum_intersections2.bat.
+Run the bash file n2.sh to sort the .doubletree files (using linux, unix,Cygwin etc) and to create the .dts files, and then run intersect2.bat to obtain the .int files.  Finally run sum_intersections2.bat to create the files srZeta3.sum, erZeta3.sum, srZeta4.sum, erZeta4.sum files. These files contain the corresponding zetanumbers.
+
+5. Execute command n3.bat and repeat the same sub-steps as in step 4 namely run n3.sh, intersect3.bat, sum_intersections3.bat in that order.
+
+The numbers that we got are listed in our paper "COMPUTATIONAL EXPLORATIONS OF THE THOMPSON GROUP T FOR THE AMENABILITY PROBLEM OF F"
+"
+
+Note
+* sr means smaller-reverseInverse.
+* er means equal-reverseInverse.
+* N means the normal words.
+* I means the inverse of the normal words.
+

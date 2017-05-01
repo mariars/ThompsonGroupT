@@ -1,0 +1,34 @@
+REM "To run it type command: intersect3.bat
+echo "intersecting volumes n(3)..."
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-0.dts int_src2=erEI2-0.dts int_dest=erZeta5-0.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-1.dts int_src2=erEI2-1.dts int_dest=erZeta5-1.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-2.dts int_src2=erEI2-2.dts int_dest=erZeta5-2.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-3.dts int_src2=erEI2-3.dts int_dest=erZeta5-3.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-4.dts int_src2=erEI2-4.dts int_dest=erZeta5-4.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-5.dts int_src2=erEI2-5.dts int_dest=erZeta5-5.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-6.dts int_src2=erEI2-6.dts int_dest=erZeta5-6.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-7.dts int_src2=erEI2-7.dts int_dest=erZeta5-7.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-0.dts int_src2=erEI3-0.dts int_dest=erZeta6-0.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-1.dts int_src2=erEI3-1.dts int_dest=erZeta6-1.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-2.dts int_src2=erEI3-2.dts int_dest=erZeta6-2.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-3.dts int_src2=erEI3-3.dts int_dest=erZeta6-3.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-4.dts int_src2=erEI3-4.dts int_dest=erZeta6-4.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-5.dts int_src2=erEI3-5.dts int_dest=erZeta6-5.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-6.dts int_src2=erEI3-6.dts int_dest=erZeta6-6.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=erEN3-7.dts int_src2=erEI3-7.dts int_dest=erZeta6-7.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-0.dts int_src2=srEI2-0.dts int_dest=srZeta5-0.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-1.dts int_src2=srEI2-1.dts int_dest=srZeta5-1.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-2.dts int_src2=srEI2-2.dts int_dest=srZeta5-2.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-3.dts int_src2=srEI2-3.dts int_dest=srZeta5-3.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-4.dts int_src2=srEI2-4.dts int_dest=srZeta5-4.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-5.dts int_src2=srEI2-5.dts int_dest=srZeta5-5.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-6.dts int_src2=srEI2-6.dts int_dest=srZeta5-6.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-7.dts int_src2=srEI2-7.dts int_dest=srZeta5-7.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-0.dts int_src2=srEI3-0.dts int_dest=srZeta6-0.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-1.dts int_src2=srEI3-1.dts int_dest=srZeta6-1.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-2.dts int_src2=srEI3-2.dts int_dest=srZeta6-2.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-3.dts int_src2=srEI3-3.dts int_dest=srZeta6-3.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-4.dts int_src2=srEI3-4.dts int_dest=srZeta6-4.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-5.dts int_src2=srEI3-5.dts int_dest=srZeta6-5.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-6.dts int_src2=srEI3-6.dts int_dest=srZeta6-6.int
+START CMD /C CALL TFilesEvenSLEbin 0 intersect int_src1=srEN3-7.dts int_src2=srEI3-7.dts int_dest=srZeta6-7.int

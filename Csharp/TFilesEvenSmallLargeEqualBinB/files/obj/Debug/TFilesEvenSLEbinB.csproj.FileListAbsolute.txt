@@ -1,0 +1,12 @@
+E:\csharp\Projects\TOdometers\TFilesEvenSmallLargeEqualBinB\files\bin\Debug\TFilesEvenSLEbin.exe.config
+E:\csharp\Projects\TOdometers\TFilesEvenSmallLargeEqualBinB\files\bin\Debug\TFilesEvenSLEbin.exe
+E:\csharp\Projects\TOdometers\TFilesEvenSmallLargeEqualBinB\files\bin\Debug\TFilesEvenSLEbin.pdb
+E:\csharp\Projects\TOdometers\TFilesEvenSmallLargeEqualBinB\files\obj\Debug\TFilesEvenSLEbinB.csprojResolveAssemblyReference.cache
+E:\csharp\Projects\TOdometers\TFilesEvenSmallLargeEqualBinB\files\obj\Debug\TFilesEvenSLEbin.exe
+E:\csharp\Projects\TOdometers\TFilesEvenSmallLargeEqualBinB\files\obj\Debug\TFilesEvenSLEbin.pdb
+E:\csharp\Projects\TOdometers\ToPublish\TFilesEvenSmallLargeEqualBinB\files\bin\Debug\TFilesEvenSLEbin.exe.config
+E:\csharp\Projects\TOdometers\ToPublish\TFilesEvenSmallLargeEqualBinB\files\obj\Debug\TFilesEvenSLEbin.exe
+E:\csharp\Projects\TOdometers\ToPublish\TFilesEvenSmallLargeEqualBinB\files\obj\Debug\TFilesEvenSLEbin.pdb
+E:\csharp\Projects\TOdometers\ToPublish\TFilesEvenSmallLargeEqualBinB\files\bin\Debug\TFilesEvenSLEbin.exe
+E:\csharp\Projects\TOdometers\ToPublish\TFilesEvenSmallLargeEqualBinB\files\bin\Debug\TFilesEvenSLEbin.pdb
+E:\csharp\Projects\TOdometers\ToPublish\TFilesEvenSmallLargeEqualBinB\files\obj\Debug\TFilesEvenSLEbinB.csprojResolveAssemblyReference.cache

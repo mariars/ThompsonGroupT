@@ -1,0 +1,12 @@
+E:\csharp\Projects\TOdometer\files\bin\Debug\TOdometer.exe.config
+E:\csharp\Projects\TOdometer\files\bin\Debug\TOdometer.exe
+E:\csharp\Projects\TOdometer\files\bin\Debug\TOdometer.pdb
+E:\csharp\Projects\TOdometer\files\obj\Debug\TOdometer.exe
+E:\csharp\Projects\TOdometer\files\obj\Debug\TOdometer.pdb
+E:\csharp\Projects\TOdometer\files\obj\Debug\TOdometer.csprojResolveAssemblyReference.cache
+E:\csharp\Projects\TOdometers\TOdometerSmallLargeEqual\files\bin\Debug\TOdometerSLE.exe.config
+E:\csharp\Projects\TOdometers\TOdometerSmallLargeEqual\files\bin\Debug\TOdometerSLE.exe
+E:\csharp\Projects\TOdometers\TOdometerSmallLargeEqual\files\bin\Debug\TOdometerSLE.pdb
+E:\csharp\Projects\TOdometers\TOdometerSmallLargeEqual\files\obj\Debug\TOdometer.csprojResolveAssemblyReference.cache
+E:\csharp\Projects\TOdometers\TOdometerSmallLargeEqual\files\obj\Debug\TOdometerSLE.exe
+E:\csharp\Projects\TOdometers\TOdometerSmallLargeEqual\files\obj\Debug\TOdometerSLE.pdb

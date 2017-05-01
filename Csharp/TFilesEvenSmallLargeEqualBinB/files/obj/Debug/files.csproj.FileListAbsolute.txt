@@ -1,0 +1,1 @@
+E:\csharp\Projects\files\files\bin\Debug\files.exe.config
